@@ -1,0 +1,102 @@
+.profile-list {
+  padding-top: 20px;
+  background: rgb(49, 49, 49);
+  background: linear-gradient(90deg, rgba(49, 49, 49, 1) 28%, rgba(0, 0, 0, 1) 87%);
+  padding-bottom: 50px;
+  padding-top: 70px;
+}
+
+.profile-list h1 {
+  padding-top: 12px;
+  color: white;
+  font-size: 25px;
+}
+
+.profile-list {
+  color: white;
+  font-size: 15px;
+}
+
+.profile-list img {
+  background-color: blue;
+  border-radius: 80px;
+}
+
+.about-text {
+  padding-top: 20px;
+  background-color: #111;
+  padding-bottom: 20px;
+  border-radius: 50px;
+}
+
+.about-text h1,
+p {
+  color: white;
+}
+
+.hobby-list h1,
+p {
+  color: white;
+}
+
+.hobby-list {
+  background-color: #000;
+  border-radius: 50px;
+  padding-bottom: 15px;
+}
+
+.swiper {
+  width: 240px;
+  height: 320px;
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.list-text h1 {
+  font-size: 15px;
+  background-color: #111;
+  padding-bottom: 3rem;
+  padding-top: 2.5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  border-radius: 35px;
+  color: aliceblue;
+}
+
+.list-text {
+  float: right;
+  padding-top: 5rem;
+  padding-right: 3rem;
+}
+
+.area-learn h1 {
+  background-color: #000;
+  border-radius: 20px;
+  color: whitesmoke;
+  padding-bottom: 10px;
+}
+
+footer {
+  padding-top: 25rem;
+}
+
+.footer-text {
+  background-color: black;
+}
+
+.footer-text h3 {
+  color: whitesmoke;
+  padding-bottom: 20px;
+}
+
+.footer-text span {
+  color: red;
+}
